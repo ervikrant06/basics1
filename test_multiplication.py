@@ -1,5 +1,5 @@
 from unittest import TestCase
-from multiplication1 import multiplication
+from multiplication_test1 import multiplication
 
 class TestMultiplication(TestCase):
     def test_multiplication(self):
